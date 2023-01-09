@@ -1,0 +1,26 @@
+{
+  "name": "generator-lgao-template",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["yeoman-generator"],
+  "files": [
+    "generators/app",
+    "generators/router"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cattails-lgao/yeaman-generator-uniapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cattails-lgao/yeaman-generator-uniapp/issues"
+  },
+  "homepage": "https://github.com/cattails-lgao/yeaman-generator-uniapp#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  }
+}
