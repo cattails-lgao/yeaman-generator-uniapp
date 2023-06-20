@@ -1,8 +1,12 @@
 {
-  "name": "generator-lgao-template",
-  "version": "1.0.0",
-  "description": "",
-  "keywords": ["yeoman-generator"],
+  "name": "generator-lgao7779-template",
+  "version": "0.0.1",
+  "description": "作用与创建一个uniapp、vue的generator",
+  "keywords": [
+    "yeoman-generator",
+    "uniapp",
+    "vue"
+  ],
   "files": [
     "generators/app",
     "generators/router"

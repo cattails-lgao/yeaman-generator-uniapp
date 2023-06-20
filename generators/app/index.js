@@ -1,9 +1,3 @@
-/*
- * @Date: 2023-01-09 21:30:52
- * @LastEditors: lgao 191553780@qq.com
- * @LastEditTime: 2023-01-09 23:42:41
- * @FilePath: \generator-uniapp\generators\app\index.js
- */
 const Generator = require("yeoman-generator");
 const fs = require('fs');
 
